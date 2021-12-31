@@ -78,8 +78,8 @@ class MemoryCards extends Component{
         return `
           <section class="memory-game">
           <div class="memory-card" event-click="flipCard" data-img="Lynx">
-            <img class="front-face" src="../../Lynx.jpg" alt="Lynx">
-            <img class="back-face" src="../../badge.jpg" alt="Memory Card">
+            <img class="front-face" src="./Lynx.jpg" alt="Lynx">
+            <img class="back-face" src="./badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="Lynx">

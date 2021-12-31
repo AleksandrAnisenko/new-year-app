@@ -78,33 +78,33 @@ class MemoryCards extends Component{
         return `
           <section class="memory-game">
           <div class="memory-card" event-click="flipCard" data-img="Lynx">
-            <img class="front-face" src="https://aleksandranisenko.github.io/new-year-app/images/Lynx.jpg" alt="Lynx">
-            <img class="back-face" src="https://aleksandranisenko.github.io/new-year-app/images/badge.jpg" alt="Memory Card">
+            <img class="front-face" src="../../Lynx.jpg" alt="Lynx">
+            <img class="back-face" src="../../badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="Lynx">
-            <img class="front-face" src="https://aleksandranisenko.github.io/new-year-app/images/Lynx.jpg" alt="Lynx">
+            <img class="front-face" src="../../images/Lynx.jpg" alt="Lynx">
             <img class="back-face" src="../../../images/badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="fox">
-            <img class="front-face" src="https://aleksandranisenko.github.io/new-year-app/images/fox.jpg" alt="fox">
-            <img class="back-face" src="https://aleksandranisenko.github.io/new-year-app/images/badge.jpg" alt="Memory Card">
+            <img class="front-face" src="../../images/fox.jpg" alt="fox">
+            <img class="back-face" src="../../images/badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="fox">
-            <img class="front-face" src="https://aleksandranisenko.github.io/new-year-app/images/fox.jpg" alt="fox">
-            <img class="back-face" src="https://aleksandranisenko.github.io/new-year-app/images/badge.jpg" alt="Memory Card">
+            <img class="front-face" src="../../images/fox.jpg" alt="fox">
+            <img class="back-face" src="../../images/badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="giraffe">
-            <img class="front-face" src="https://aleksandranisenko.github.io/new-year-app/images/images/giraffe.jpg" alt="giraffe">
-            <img class="back-face" src="https://aleksandranisenko.github.io/new-year-app/images/images/badge.jpg" alt="Memory Card">
+            <img class="front-face" src="../../images/giraffe.jpg" alt="giraffe">
+            <img class="back-face" src="../../images/badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="giraffe">
-            <img class="front-face" src="https://aleksandranisenko.github.io/new-year-app/images/giraffe.jpg" alt="giraffe">
-            <img class="back-face" src="https://aleksandranisenko.github.io/new-year-app/images/badge.jpg" alt="Memory Card">
+            <img class="front-face" src="../../images/giraffe.jpg" alt="giraffe">
+            <img class="back-face" src="../../images/badge.jpg" alt="Memory Card">
           </div>
         
           <div class="memory-card" event-click="flipCard" data-img="Hedgehog">

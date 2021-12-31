@@ -108,9 +108,9 @@ class Safe extends Component{
                         <div class="lock lock1"></div>
                         <div class="lock lock2"></div>
                         <div class="lock lock3"></div>
-                        <img src="/images/safe.png">
+                        <img src="./images/safe.png">
                         <div class="get-gift">
-                            <img event-click="goNext" src="/images/gift.png">
+                            <img event-click="goNext" src="./images/gift.png">
                         <div>
                     </div>
                 </div>
